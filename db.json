@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "9",
+      "firstname": "Nik",
+      "lastname": "patil",
+      "birthdate": "1980-05-23",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "India",
+      "age": 26,
+      "address": "D-603, Patil Nagar Pune",
+      "profile": "Profile-05.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
